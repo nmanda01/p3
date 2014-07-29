@@ -1,8 +1,7 @@
 # P3: Developer's Best Friend
 
 
-Still trying to get this deployed on OpenShift.  
-
+Access Application here: http://p3-dwamanda.rhcloud.com/
 
 
 
